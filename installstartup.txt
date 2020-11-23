@@ -1,0 +1,5 @@
+pip3 install django
+pip3 install coverage
+pip3 install gunicorn
+pip3 install dj_database_url
+pip3 install psycopg2-binary
